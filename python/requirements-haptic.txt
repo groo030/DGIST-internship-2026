@@ -1,0 +1,7 @@
+pyserial>=3.5
+bleak
+bleak-retry-connector
+anthropic
+python-dotenv
+Pillow
+numpy

@@ -1,1 +1,0 @@
-size = 10 ; rotation = 17 ; eps = 0.01 ; union () { rotate ([ rotation , 0 , 0 ]) cube ( size ); rotate ([ rotation , 0 , 0 ]) translate ([ 0 , 0 , size - eps ]) cube ([ 2 , 3 , 4 + eps ]); }
